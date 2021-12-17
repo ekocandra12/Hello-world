@@ -1,2 +1,2 @@
-# Hello-world
-My repository
+# Eko Candra
+Disini Kami Belajar Menggunakan Github
